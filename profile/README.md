@@ -4,6 +4,7 @@ are veteran q developers who curate for the community:
 
 * [Awesome Q](https://awesome-q.org), a list of links to essential and interesting q libraries
 * [Study Q](https://github.com/qbists/studyq), essays, tutorials and examples for increasing your q power
+* [Remarks on Style](https://github.com/qbists/style), Stevan Apter’s k classic updated for q
 
 See also [code.kx.com](https://code.kx.com) | [KX Community](https://community.kx.com) | [KX Academy](https://kx.com/academy) | [Iverson College on Slack](https://iversoncollege.slack/com)
 
